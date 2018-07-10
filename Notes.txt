@@ -1,0 +1,12 @@
+1 - Create a DB 
+2 - Hook up DB to Laravel
+3 - Create Model, Controller, Migration
+4 - Create Route
+5 - Create View
+6 - Store Route
+7 - Store Logic
+8 - Show all Tasks
+9 - Create All Views
+10 - Create Edit View , Route, Logic
+11 - Create Edit View , Route, Logic
+
